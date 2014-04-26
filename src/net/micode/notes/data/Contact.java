@@ -16,6 +16,9 @@
 
 package net.micode.notes.data;
 
+/**
+ * 
+ */
 import android.content.Context;
 import android.database.Cursor;
 import android.provider.ContactsContract.CommonDataKinds.Phone;
